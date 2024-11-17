@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment Week 2
 This is the first Unity practice project in our game development course. 
 
 The game features two fish characters.
